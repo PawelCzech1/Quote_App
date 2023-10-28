@@ -1,6 +1,9 @@
 <?php
-include_once './Translation.php'; 
+include_once 'class/Translation.php'; 
+$title = "Quote  Aplicvation";
 
-$title ="Quote Ap[lication"; 
+$trans = new Translation();
+$trans->lang = "Polish";
 
-include_once('./wycena.html'); 
+
+include_once('wycena.html'); 
