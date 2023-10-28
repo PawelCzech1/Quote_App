@@ -1,3 +1,6 @@
 <?php
 
-phpinfo();
+class Translation {
+    private $lang; 
+    private $price; 
+}
