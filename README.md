@@ -5,5 +5,5 @@ Quote Generator application for customers who want to know the price of the tran
 
 ## Technologies 
 The project is created with:
-HTML5, CSS3, PHp 8.x
+HTML5, CSS3, PHP 8.x
 
