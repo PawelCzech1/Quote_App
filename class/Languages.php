@@ -1,6 +1,6 @@
 <?php
 
-class Translation {
+class Languages {
     public $lang; 
     private $price; 
 
